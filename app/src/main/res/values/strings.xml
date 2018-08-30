@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hart App</string>
+    <string name="google_maps_API_key">###########################</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+
+</resources>
